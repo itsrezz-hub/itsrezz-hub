@@ -54,16 +54,6 @@
 
 <img src="https://raw.githubusercontent.com/itsrezz-hub/itsrezz-hub/output/snake.svg" alt="Snake animation" />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsrezz-hub/itsrezz-hub/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsrezz-hub/itsrezz-hub/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsrezz-hub/itsrezz-hub/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/31qscfoe6yaa3sef2cvgdyichnom">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qscfoe6yaa3sef2cvgdyichnom&count=5&unique=true" alt="Spotify recently played"  />
